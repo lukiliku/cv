@@ -1,0 +1,30 @@
+body, html {
+  height: 100%;
+  font-family: "Inconsolata", sans-serif;
+}
+
+.bgimg {
+  background-position: center;
+  background-size: cover;
+  background-image: url("/w3images/coffeehouse.jpg");
+  min-height: 75%;
+}
+
+.menu {
+  display: none;
+
+.article-a {
+	background-color: #52472B;
+	background-color: #FF3C57;
+}
+}
+
+.site-header nav a {
+	display: block;
+	text-decoration: none;
+	margin-right: 10px;
+	margin-bottom: 15px;
+	padding: 10px 20px;
+	width: 88.6%;
+	text-align: center;
+}
